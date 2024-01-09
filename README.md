@@ -83,6 +83,12 @@ Pressing `Ctrl+Shift+B` or running **Tasks: Run Task** from the global Terminal 
 
 watch the program execute and run at the same time automatically
 
+|![Screenshot from 2024-01-09 14-12-31](https://github.com/ullaskunder3/sfml-vscode-soultion/assets/66258652/12f8ed30-11f9-4cec-a898-1f5dcf39a695)|![Screenshot from 2024-01-09 14-13-06](https://github.com/ullaskunder3/sfml-vscode-soultion/assets/66258652/6c7e9679-5d00-45d7-a5f0-8063da2c6c3d)|
+|--|--|
+
+|![Screenshot from 2024-01-09 14-13-44](https://github.com/ullaskunder3/sfml-vscode-soultion/assets/66258652/86248de5-3874-4551-a00f-d5a3d9feaad0)|
+|--|
+
 ## Troubleshooting
 
 - If you encounter any issues, ensure that you have the required dependencies installed and that the paths in `.vscode/c_cpp_properties.json` are correct.
