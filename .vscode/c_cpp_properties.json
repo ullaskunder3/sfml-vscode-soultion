@@ -12,10 +12,24 @@
                 "/usr/share/SFML"
             ],
             "defines": [],
-            "compilerArgs": [
-                "-Wall",
-                "-Wextra"
-            ]
+            "compilerArgs": ["-Wall", "-Wextra"]
+        },
+        {
+            "name": "Windows",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:/MinGW/bin/g++.exe", 
+            // Update this path with your MinGW installation path
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/SFML/include", 
+                // Update this path with your SFML include directory on Windows
+                "C:/SFML/lib"      
+                // Update this path with your SFML lib directory on Windows
+            ],
+            "defines": [],
+            "compilerArgs": ["-Wall", "-Wextra"]
         }
     ],
     "version": 4
