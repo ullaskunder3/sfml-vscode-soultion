@@ -3,8 +3,8 @@
 #include <random>
 #include <chrono>
 
-const int WINDOW_WIDTH = 800;
-const int WINDOW_HEIGHT = 600;
+const int WINDOW_WIDTH = 300;
+const int WINDOW_HEIGHT = 300;
 const int ARRAY_SIZE = 100;
 const int BAR_WIDTH = WINDOW_WIDTH / ARRAY_SIZE;
 const int DELAY = 40;

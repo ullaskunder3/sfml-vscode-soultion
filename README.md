@@ -2,6 +2,8 @@
 
 This is a simple SFML C++ project running with vs code that can be built and run on both Linux and Windows using Visual Studio Code.
 
+![demo gif](./ezgif-7-2872167a45.gif)
+
 ## Prerequisites
 
 - Visual Studio Code: [Download and install Visual Studio Code](https://code.visualstudio.com/download)
@@ -64,8 +66,8 @@ This is a simple SFML C++ project running with vs code that can be built and run
 1. Clone the repository:
 
 ```
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/ullaskunder3/sfml-vscode-soultion.git
+cd <sfml-vscode-soultion>
 ```
 
 
